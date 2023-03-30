@@ -5,7 +5,7 @@
 
 ![Mobile](https://user-images.githubusercontent.com/41968938/228979511-060897f1-8bbb-47fa-81a6-683e17c66b8c.png)  
 
-![Portfólio com HTML e CSS]()
+![Portfólio com HTML e CSS](https://patyfil.github.io/portfolio-html-e-css-alura/)
 
 # Portfólio
 
@@ -45,7 +45,7 @@ CURSO 04 - HTML e CSS: trabalhando com responsividade e publicação de projetos
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento]().
+[Veja o projeto final do curso em funcionamento](https://patyfil.github.io/portfolio-html-e-css-alura/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
