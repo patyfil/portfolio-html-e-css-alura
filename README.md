@@ -37,7 +37,7 @@ Este curso abordou os seguintes tópicos:
 4. Navegando entre páginas
 5. Aplicando variáveis CSS
 
-CURSO 04 - HTML e CSS: trabalhando com responsividade e publicação de projetos - CH: 8hs  
+CURSO 04 - HTML e CSS: trabalhando com responsividade e publicação de projetos - CH: 6hs  
 Este curso abordou os seguintes tópicos:
 1. Unidade de medidas
 2. Adaptando elementos
