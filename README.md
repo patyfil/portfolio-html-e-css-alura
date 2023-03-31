@@ -38,7 +38,12 @@ Este curso abordou os seguintes tópicos:
 5. Aplicando variáveis CSS
 
 CURSO 04 - HTML e CSS: trabalhando com responsividade e publicação de projetos - CH: 8hs  
-
+Este curso abordou os seguintes tópicos:
+1. Unidade de medidas
+2. Adaptando elementos
+3. Responsividade
+4. Responsividade e GitHub
+5. Repositório do GitHub
 
 
 ## 📁 Acesso ao projeto
