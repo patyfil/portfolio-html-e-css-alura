@@ -7,8 +7,6 @@
 
 ![Portfólio com HTML e CSS](https://patyfil.github.io/portfolio-html-e-css-alura/)
 
-# Portfólio
-
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `HTML`  
